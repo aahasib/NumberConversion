@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Conversion</string>
+    <string name="textview1">Convert Your Number:</string>
+    <string name="about1">About</string>
+    <string name="convert1">Convert</string>
+    <string name="charttohome">Back to Home Page</string>
+
+</resources>
